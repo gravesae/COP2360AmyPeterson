@@ -1,0 +1,6 @@
+c:\users\peterson\documents\visual studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.exe.config
+c:\users\peterson\documents\visual studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.exe
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.pdb
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.exe
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.pdb
