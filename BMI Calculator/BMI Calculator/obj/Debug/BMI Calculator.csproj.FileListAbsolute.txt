@@ -1,0 +1,6 @@
+c:\users\peterson\documents\visual studio 2013\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
