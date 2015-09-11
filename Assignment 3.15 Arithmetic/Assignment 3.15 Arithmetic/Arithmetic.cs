@@ -2,7 +2,7 @@
 //Displaying the sum, difference, produce, and quotient of two numbers. 
 using System;
 
-
+//Grade: 10/10 Great  job
 public class Arithmetic
     {
         // Main method begins execution of C# app    

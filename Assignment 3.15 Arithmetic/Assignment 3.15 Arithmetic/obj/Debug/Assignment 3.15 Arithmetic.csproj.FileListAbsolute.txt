@@ -4,3 +4,9 @@ C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmet
 C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.pdb
 C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.exe
 C:\Users\Peterson\Documents\Visual Studio 2013\Projects\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\bin\Debug\Assignment 3.15 Arithmetic.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\Assignment 3.15 Arithmetic\Assignment 3.15 Arithmetic\obj\Debug\Assignment 3.15 Arithmetic.csprojResolveAssemblyReference.cache
