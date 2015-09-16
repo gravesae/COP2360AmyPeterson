@@ -18,6 +18,7 @@ namespace TabularOutput
                 Console.WriteLine("{0}\t{1}\t{2}\t{3}", number, number * 10, number * 100, number * 1000);
                 number++; // add the by 1 each time
             } // end loop
+
         } // end main
     } // end Class
 }
