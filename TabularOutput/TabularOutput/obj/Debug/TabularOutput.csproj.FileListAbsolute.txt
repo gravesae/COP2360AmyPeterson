@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\TabularOutput\TabularOutput\bin\Debug\TabularOutput.exe.config
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\TabularOutput\TabularOutput\obj\Debug\TabularOutput.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\TabularOutput\TabularOutput\bin\Debug\TabularOutput.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\TabularOutput\TabularOutput\bin\Debug\TabularOutput.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\TabularOutput\TabularOutput\obj\Debug\TabularOutput.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\TabularOutput\TabularOutput\obj\Debug\TabularOutput.pdb
