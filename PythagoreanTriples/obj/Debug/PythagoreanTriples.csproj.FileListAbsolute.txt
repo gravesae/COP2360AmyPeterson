@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PythagoreanTriples\bin\Debug\PythagoreanTriples.exe.config
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PythagoreanTriples\obj\Debug\PythagoreanTriples.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PythagoreanTriples\bin\Debug\PythagoreanTriples.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PythagoreanTriples\bin\Debug\PythagoreanTriples.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PythagoreanTriples\obj\Debug\PythagoreanTriples.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PythagoreanTriples\obj\Debug\PythagoreanTriples.pdb
