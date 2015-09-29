@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\ParkingCharges\bin\Debug\ParkingCharges.exe.config
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\ParkingCharges\bin\Debug\ParkingCharges.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\ParkingCharges\bin\Debug\ParkingCharges.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\ParkingCharges\obj\Debug\ParkingCharges.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\ParkingCharges\obj\Debug\ParkingCharges.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\ParkingCharges\obj\Debug\ParkingCharges.pdb
