@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignments 8.17 Dice Rolling\bin\Debug\Assignments 8.17 Dice Rolling.exe.config
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignments 8.17 Dice Rolling\bin\Debug\Assignments 8.17 Dice Rolling.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignments 8.17 Dice Rolling\bin\Debug\Assignments 8.17 Dice Rolling.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignments 8.17 Dice Rolling\obj\Debug\Assignments 8.17 Dice Rolling.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignments 8.17 Dice Rolling\obj\Debug\Assignments 8.17 Dice Rolling.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignments 8.17 Dice Rolling\obj\Debug\Assignments 8.17 Dice Rolling.pdb

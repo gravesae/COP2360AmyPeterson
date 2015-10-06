@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 8.12 Duplicate Elimination\bin\Debug\Assignment 8.12 Duplicate Elimination.exe.config
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 8.12 Duplicate Elimination\bin\Debug\Assignment 8.12 Duplicate Elimination.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 8.12 Duplicate Elimination\bin\Debug\Assignment 8.12 Duplicate Elimination.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 8.12 Duplicate Elimination\obj\Debug\Assignment 8.12 Duplicate Elimination.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 8.12 Duplicate Elimination\obj\Debug\Assignment 8.12 Duplicate Elimination.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 8.12 Duplicate Elimination\obj\Debug\Assignment 8.12 Duplicate Elimination.pdb
