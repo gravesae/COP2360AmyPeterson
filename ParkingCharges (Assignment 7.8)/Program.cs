@@ -1,5 +1,10 @@
 ﻿using System;
 
+//Grade 9/10 -Missing Requirements:
+//  1. Enter the hours for EACH customer and display the total charge for the CURRENT customer. Your program does not display the charges for the current customer, it displays them all at the end.
+//  2. Display a RUNNING total of yesterday's receipts. There should be a running total displayed for each customer.
+
+
 namespace ParkingCharges
 {
     class Program

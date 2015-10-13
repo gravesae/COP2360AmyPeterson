@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Grade 10/10 - Excellent!
 namespace GuessTheNumberGame
 {
     class Program
