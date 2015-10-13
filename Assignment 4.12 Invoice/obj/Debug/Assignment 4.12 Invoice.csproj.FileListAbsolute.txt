@@ -1,6 +1,0 @@
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 4.12 Invoice\bin\Debug\Assignment 4.12 Invoice.exe.config
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 4.12 Invoice\obj\Debug\Assignment 4.12 Invoice.csprojResolveAssemblyReference.cache
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 4.12 Invoice\bin\Debug\Assignment 4.12 Invoice.exe
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 4.12 Invoice\bin\Debug\Assignment 4.12 Invoice.pdb
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 4.12 Invoice\obj\Debug\Assignment 4.12 Invoice.exe
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Assignment 4.12 Invoice\obj\Debug\Assignment 4.12 Invoice.pdb

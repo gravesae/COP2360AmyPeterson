@@ -1,6 +1,8 @@
 ﻿using System;
 
 // Declare Invoice Class
+
+//Grade 10/10 - Great job
 public class Invoice
 {    
     private int _quantity; // Quanity variable
