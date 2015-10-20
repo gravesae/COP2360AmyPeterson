@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess the Number Assignment 14.8", "Guess the Number Assignment 14.8.csproj", "{FB1C91B5-8596-454D-AD52-EB7229719F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1C91B5-8596-454D-AD52-EB7229719F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1C91B5-8596-454D-AD52-EB7229719F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1C91B5-8596-454D-AD52-EB7229719F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1C91B5-8596-454D-AD52-EB7229719F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
