@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\Set of Integers Assignment 10.8\bin\Debug\Set of Integers Assignment 10.8.exe.config
+C:\Users\Peterson\Documents\C# Projects\Set of Integers Assignment 10.8\bin\Debug\Set of Integers Assignment 10.8.exe
+C:\Users\Peterson\Documents\C# Projects\Set of Integers Assignment 10.8\bin\Debug\Set of Integers Assignment 10.8.pdb
+C:\Users\Peterson\Documents\C# Projects\Set of Integers Assignment 10.8\obj\Debug\Set of Integers Assignment 10.8.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\Set of Integers Assignment 10.8\obj\Debug\Set of Integers Assignment 10.8.exe
+C:\Users\Peterson\Documents\C# Projects\Set of Integers Assignment 10.8\obj\Debug\Set of Integers Assignment 10.8.pdb
