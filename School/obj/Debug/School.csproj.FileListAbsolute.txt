@@ -1,0 +1,9 @@
+C:\Users\Peterson\Documents\C# Projects\School\bin\Debug\School.exe.config
+C:\Users\Peterson\Documents\C# Projects\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\School\bin\Debug\School.exe
+C:\Users\Peterson\Documents\C# Projects\School\bin\Debug\School.pdb
+C:\Users\Peterson\Documents\C# Projects\School\obj\Debug\School.exe
+C:\Users\Peterson\Documents\C# Projects\School\obj\Debug\School.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\School\bin\Debug\School.exe.config
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\School\obj\Debug\School.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\School\obj\Debug\School.pdb
