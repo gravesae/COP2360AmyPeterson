@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\12.10 Shape Hierarchy\bin\Debug\12.10 Shape Hierarchy.exe.config
+C:\Users\Peterson\Documents\C# Projects\12.10 Shape Hierarchy\obj\Debug\12.10 Shape Hierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\12.10 Shape Hierarchy\bin\Debug\12.10 Shape Hierarchy.exe
+C:\Users\Peterson\Documents\C# Projects\12.10 Shape Hierarchy\bin\Debug\12.10 Shape Hierarchy.pdb
+C:\Users\Peterson\Documents\C# Projects\12.10 Shape Hierarchy\obj\Debug\12.10 Shape Hierarchy.exe
+C:\Users\Peterson\Documents\C# Projects\12.10 Shape Hierarchy\obj\Debug\12.10 Shape Hierarchy.pdb
