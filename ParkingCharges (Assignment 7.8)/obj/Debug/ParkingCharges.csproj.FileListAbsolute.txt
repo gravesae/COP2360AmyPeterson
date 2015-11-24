@@ -1,0 +1,6 @@
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\ParkingCharges (Assignment 7.8)\bin\Debug\ParkingCharges.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\ParkingCharges (Assignment 7.8)\obj\Debug\ParkingCharges.csprojResolveAssemblyReference.cache
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\ParkingCharges (Assignment 7.8)\bin\Debug\ParkingCharges.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\ParkingCharges (Assignment 7.8)\bin\Debug\ParkingCharges.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\ParkingCharges (Assignment 7.8)\obj\Debug\ParkingCharges.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\ParkingCharges (Assignment 7.8)\obj\Debug\ParkingCharges.pdb

@@ -1,5 +1,6 @@
 ﻿using System;
-
+//Grade 9.5/10
+//Requirements state to use the smallest array possible, an array of size 4 is sufficient as the 5th input does not have to be stored.
 class Program
 {
     // Entry point of the application
