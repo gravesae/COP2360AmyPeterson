@@ -31,11 +31,13 @@ public class SalariedEmployee : Employee
       } // end set
    } // end property WeeklySalary
 
-   // calculate earnings; override abstract method Earnings in Employee
-   public override decimal Earnings()
+   // calculate earnings; implement interface IPayable method
+   // that was abstract in base class Employee
+   public override decimal GetPaymentAmount()
    {
-      return WeeklySalary;
-   } // end method Earnings          
+       return WeeklySalary;
+   } // end method GetPaymentAmount
+   
 
    // return string representation of SalariedEmployee object
    public override string ToString()

@@ -50,14 +50,15 @@ public class HourlyEmployee : Employee
       } // end set
    } // end property Hours
 
-   // calculate earnings; override Employee’s abstract method Earnings
-   public override decimal Earnings()
+   // calculate earnings; implement interface IPayable method
+   // that was abstract in base class Employee
+   public override decimal GetPaymentAmount()
    {
       if ( Hours <= 40 ) // no overtime                          
          return Wage * Hours;
       else
          return ( 40 * Wage ) + ( ( Hours - 40 ) * Wage * 1.5M );
-   } // end method Earnings                                      
+   } // end method GetPaymentAmount                                      
 
    // return string representation of HourlyEmployee object
    public override string ToString()

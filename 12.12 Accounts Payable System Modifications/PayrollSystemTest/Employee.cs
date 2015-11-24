@@ -1,6 +1,6 @@
 ﻿// Fig. 12.4: Employee.cs
 // Employee abstract base class.
-public abstract class Employee
+public abstract class Employee : IPayable
 {
    // auto-implemented read-only property FirstName
    public string FirstName { get; private set; }
@@ -26,8 +26,9 @@ public abstract class Employee
          FirstName, LastName, SocialSecurityNumber );
    } // end method ToString
 
-   // abstract method overridden by derived classes
-   public abstract decimal Earnings(); // no implementation here
+   // Note: We do not implement IPayable method GetPayment here, so
+   // this class must be declared abstract to avoid a compliation error.
+   public abstract decimal GetPaymentAmount();
 } // end abstract class Employee
 
 

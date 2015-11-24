@@ -17,3 +17,8 @@ C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\Pay
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb

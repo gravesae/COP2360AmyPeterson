@@ -50,11 +50,12 @@ public class CommissionEmployee : Employee
       } // end set
    } // end property CommissionRate
 
-   // calculate earnings; override abstract method Earnings in Employee
-   public override decimal Earnings()
+   // calculate earnings; implement interface IPayable method
+   // that was abstract in base class Employee
+   public override decimal GetPaymentAmount()
    {
       return CommissionRate * GrossSales;
-   } // end method Earnings              
+   } // end method GetPaymentAmount              
 
    // return string representation of CommissionEmployee object
    public override string ToString()

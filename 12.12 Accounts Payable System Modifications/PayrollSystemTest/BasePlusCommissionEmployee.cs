@@ -5,13 +5,15 @@ using System;
 public class BasePlusCommissionEmployee : CommissionEmployee
 {
    private decimal baseSalary; // base salary per week
+   private decimal bonusPercentage; 
 
    // six-parameter constructor
    public BasePlusCommissionEmployee( string first, string last,
-      string ssn, decimal sales, decimal rate, decimal salary )
+      string ssn, decimal sales, decimal rate, decimal salary, decimal bonus )
       : base( first, last, ssn, sales, rate )
    {
       BaseSalary = salary; // validate base salary via property
+      bonusPercentage = bonus;
    } // end six-parameter BasePlusCommissionEmployee constructor
 
    // property that gets and sets 
@@ -31,18 +33,34 @@ public class BasePlusCommissionEmployee : CommissionEmployee
                value, "BaseSalary must be >= 0" );               
       } // end set
    } // end property BaseSalary
-
-   // calculate earnings; override method Earnings in CommissionEmployee
-   public override decimal Earnings()
+    
+    public decimal PaymentAmount
    {
-      return BaseSalary + base.Earnings();
-   } // end method Earnings               
+       get 
+       {
+           return BaseSalary + base.GetPaymentAmount();
+       }
+   }
+
+    public decimal BonusAmount
+    {
+        get
+        {
+            return PaymentAmount * bonusPercentage;
+        }
+    }
+   // calculate earnings; implement interface IPayable method
+   // that was abstract in base class Employee
+   public override decimal GetPaymentAmount()
+   {
+       return PaymentAmount + BonusAmount;
+   } // end method GetPaymentAmount               
 
    // return string representation of BasePlusCommissionEmployee object
    public override string ToString()
    {
-      return string.Format( "base-salaried {0}; base salary: {1:C}",
-         base.ToString(), BaseSalary );
+      return string.Format( "base-salaried {0}; base salary: {1:C}; bonus: {2:C}",
+         base.ToString(), BaseSalary, BonusAmount);
    } // end method ToString                                            
 } // end class BasePlusCommissionEmployee
 
