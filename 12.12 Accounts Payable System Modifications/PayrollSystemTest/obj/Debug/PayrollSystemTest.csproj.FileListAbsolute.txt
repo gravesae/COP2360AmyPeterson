@@ -1,0 +1,24 @@
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
+C:\Users\April\Documents\SSC\COP2360\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\Users\April\Documents\SSC\COP2360\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
+C:\Users\April\Documents\SSC\COP2360\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\April\Documents\SSC\COP2360\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
+C:\Users\April\Documents\SSC\COP2360\sol_ch12\ex12_11\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+D:\Downloads\PayrollSystemTest\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+D:\Downloads\PayrollSystemTest\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
+D:\Downloads\PayrollSystemTest\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache
+D:\Downloads\PayrollSystemTest\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
+D:\Downloads\PayrollSystemTest\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\PayrollSystemTest\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
+C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
