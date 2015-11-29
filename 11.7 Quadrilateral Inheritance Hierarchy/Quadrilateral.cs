@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade:10/10 Excellent!
+//Observations
+//Coordinate is a great use of classes for code reuse and maintainability, nice job
 namespace _11._7_Quadrilateral_Inheritance_Hierarchy
 {
     abstract class Quadrilateral
