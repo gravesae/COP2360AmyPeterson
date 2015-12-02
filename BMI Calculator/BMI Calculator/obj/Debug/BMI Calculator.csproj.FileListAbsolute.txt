@@ -4,6 +4,15 @@ C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calcu
 C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
 C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
 C:\Users\Peterson\Documents\Visual Studio 2013\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+<<<<<<< HEAD
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+=======
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+>>>>>>> upstream/master

@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Grade: 10
+// All requirements have been met, great job implemnting the warmer, colder logic
 namespace Guess_the_Number_Assignment_14._8
 {
     public partial class Form1 : Form

@@ -1,7 +1,7 @@
 ﻿// 3.31 Calculating BMI
 using System;
 
-
+//Grade: 10/10 points.  Very nice job, clean and well commented 
 public class Program
 {
     static void Main(string[] args) // Main method begins execution of C# app  

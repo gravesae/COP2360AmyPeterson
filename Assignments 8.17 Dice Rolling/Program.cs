@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Grade: 10/10 Nice Job
 class Program
 {
     static void Main(string[] args) // Entry into the application

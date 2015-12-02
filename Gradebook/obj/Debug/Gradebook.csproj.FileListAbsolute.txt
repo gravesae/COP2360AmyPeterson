@@ -1,9 +1,0 @@
-c:\users\peterson\documents\visual studio 2013\Projects\Gradebook\bin\Debug\Gradebook.exe.config
-c:\users\peterson\documents\visual studio 2013\Projects\Gradebook\obj\Debug\Gradebook.csprojResolveAssemblyReference.cache
-c:\users\peterson\documents\visual studio 2013\Projects\Gradebook\bin\Debug\Gradebook.exe
-c:\users\peterson\documents\visual studio 2013\Projects\Gradebook\bin\Debug\Gradebook.pdb
-c:\users\peterson\documents\visual studio 2013\Projects\Gradebook\obj\Debug\Gradebook.exe
-c:\users\peterson\documents\visual studio 2013\Projects\Gradebook\obj\Debug\Gradebook.pdb
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Gradebook\bin\Debug\Gradebook.exe.config
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Gradebook\obj\Debug\Gradebook.exe
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\Gradebook\obj\Debug\Gradebook.pdb

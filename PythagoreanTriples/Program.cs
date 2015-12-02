@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Grade 10/10 Great job, I like that you used the Math class and tab delimited your output.
+
 class Program
 {
     // Main method begins execution of C# app 

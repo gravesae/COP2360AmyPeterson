@@ -1,9 +1,6 @@
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame\bin\Debug\GuessTheNumberGame.exe.config
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame\bin\Debug\GuessTheNumberGame.exe
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame\bin\Debug\GuessTheNumberGame.pdb
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.csprojResolveAssemblyReference.cache
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.exe
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame\obj\Debug\GuessTheNumberGame.pdb
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\bin\Debug\GuessTheNumberGame.exe.config
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\obj\Debug\GuessTheNumberGame.exe
-C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\obj\Debug\GuessTheNumberGame.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\bin\Debug\GuessTheNumberGame.exe.config
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\obj\Debug\GuessTheNumberGame.csprojResolveAssemblyReference.cache
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\bin\Debug\GuessTheNumberGame.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\bin\Debug\GuessTheNumberGame.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\obj\Debug\GuessTheNumberGame.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\GuessTheNumberGame (Assignment 7.30)\obj\Debug\GuessTheNumberGame.pdb
