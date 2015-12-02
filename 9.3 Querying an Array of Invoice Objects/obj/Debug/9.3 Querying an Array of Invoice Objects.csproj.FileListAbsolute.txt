@@ -1,0 +1,6 @@
+C:\Users\Peterson\Documents\C# Projects\9.3 Querying an Array of Invoice Objects\bin\Debug\9.3 Querying an Array of Invoice Objects.exe.config
+C:\Users\Peterson\Documents\C# Projects\9.3 Querying an Array of Invoice Objects\bin\Debug\9.3 Querying an Array of Invoice Objects.exe
+C:\Users\Peterson\Documents\C# Projects\9.3 Querying an Array of Invoice Objects\bin\Debug\9.3 Querying an Array of Invoice Objects.pdb
+C:\Users\Peterson\Documents\C# Projects\9.3 Querying an Array of Invoice Objects\obj\Debug\9.3 Querying an Array of Invoice Objects.csprojResolveAssemblyReference.cache
+C:\Users\Peterson\Documents\C# Projects\9.3 Querying an Array of Invoice Objects\obj\Debug\9.3 Querying an Array of Invoice Objects.exe
+C:\Users\Peterson\Documents\C# Projects\9.3 Querying an Array of Invoice Objects\obj\Debug\9.3 Querying an Array of Invoice Objects.pdb
