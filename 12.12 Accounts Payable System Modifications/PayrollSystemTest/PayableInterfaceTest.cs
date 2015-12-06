@@ -3,6 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
+//Grade: 9.5
+//Observations
+//It is not the best design to add the bonus to the BasePlusCommisionEmployee classes GetPaymentAmount because the bonus would always be added when that method was called, even if they should not get the bonus.
+//It is also not clear to other users of this class that a bonus is being added.
+//The more appropriate design would be to create a GetPayWithBonus or some such method and then to check for type BasePlusCommisionEmployee when processing payroll and call the GetPayWithBonus method.
+//This way the bonus is explicitly being added and GetPaymentAmount will always reflect the true payment amount which should not include a bonus.
 public class PayableInterfaceTest
 {
     public static void Main(string [] args)

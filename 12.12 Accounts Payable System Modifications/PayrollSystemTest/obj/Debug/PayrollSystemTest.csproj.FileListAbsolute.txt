@@ -22,3 +22,5 @@ C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payabl
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
 C:\Users\Peterson\Documents\C# Projects\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Amy\COP2360AmyPeterson\12.12 Accounts Payable System Modifications\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb

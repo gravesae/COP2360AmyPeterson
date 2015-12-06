@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+//Grade: 10/10 
 public class PieceWorker : Employee
 {
     private int pieces;
